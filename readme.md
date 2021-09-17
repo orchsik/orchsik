@@ -7,4 +7,5 @@
 
 
 ![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+![github badge](https://img.shields.io/badge/nginx-181717?style=flat&logo=nginx&logoColor=white)
 
