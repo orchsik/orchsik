@@ -6,5 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![github badge](https://img.shields.io/badge/Microsoft SQL Server-181717?style=flat&logo=Microsoft SQL Server&logoColor=white)
+![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 
