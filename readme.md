@@ -5,10 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik)](https://github.com/anuraghazra/github-readme-stats)
 
-![github badge](https://img.shields.io/badge/Linux-181717?style=flat&logo=Linux&logoColor=white)
-![github badge](https://img.shields.io/badge/nginx-181717?style=flat&logo=nginx&logoColor=white)
-![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+![github badge](https://img.shields.io/badge/Linux-181717?style=flat&logo=Linux&logoColor=#FCC624)
+![github badge](https://img.shields.io/badge/nginx-181717?style=flat&logo=nginx&logoColor=#009639)
+![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=#CC2927)
+![github badge](https://img.shields.io/badge/SQLite-181717?style=flat&logo=SQLite&logoColor=#003B57)
 
+![github badge](https://img.shields.io/badge/Node.js-181717?style=flat&logo=Node.js&logoColor=#339933)
 ![github badge](https://img.shields.io/badge/React-181717?style=flat&logo=React&logoColor=#61DAFB)
 ![github badge](https://img.shields.io/badge/Expo-181717?style=flat&logo=Expo&logoColor=#000020)
 
