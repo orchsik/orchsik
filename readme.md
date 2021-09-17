@@ -5,4 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik)](https://github.com/anuraghazra/github-readme-stats)
 
-!(https://img.shields.io/badge/TypeScript-181717?style=flat&logo=Github&logoColor=white)
+
+![github badge](https://img.shields.io/badge/Typescript-181717?style=flat&logo=Github&logoColor=white)
