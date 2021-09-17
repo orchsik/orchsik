@@ -14,9 +14,9 @@
 ![github badge](https://img.shields.io/badge/Python-181717?style=flat&logo=Python&logoColor=#3776AB)
 
 ![github badge](https://img.shields.io/badge/Node.js-181717?style=flat&logo=Node.js&logoColor=#339933)
+![github badge](https://img.shields.io/badge/NestJS-181717?style=flat&logo=NestJS&logoColor=#E0234E)
 ![github badge](https://img.shields.io/badge/React-181717?style=flat&logo=React&logoColor=#61DAFB)
 ![github badge](https://img.shields.io/badge/Redux-181717?style=flat&logo=Redux&logoColor=#764ABC)
-![github badge](https://img.shields.io/badge/NestJS-181717?style=flat&logo=NestJS&logoColor=#E0234E)
 ![github badge](https://img.shields.io/badge/Expo-181717?style=flat&logo=Expo&logoColor=#000020)
 
 ![github badge](https://img.shields.io/badge/MicrosoftAzure-181717?style=flat&logo=MicrosoftAzure&logoColor=#0078D4)
