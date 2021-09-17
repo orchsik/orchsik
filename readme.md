@@ -9,6 +9,7 @@
 ![github badge](https://img.shields.io/badge/nginx-181717?style=flat&logo=nginx&logoColor=white)
 ![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 
-![github badge](https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=white)
+![github badge](https://img.shields.io/badge/React-181717?style=flat&logo=React&logoColor=white)
+![github badge](https://img.shields.io/badge/Expo-181717?style=flat&logo=Expo&logoColor=#000020)
 
 
