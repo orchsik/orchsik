@@ -5,7 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+![github badge](https://img.shields.io/badge/Linux-181717?style=flat&logo=Linux&logoColor=white)
 ![github badge](https://img.shields.io/badge/nginx-181717?style=flat&logo=nginx&logoColor=white)
+![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+
+![github badge](https://img.shields.io/badge/react-181717?style=flat&logo=react&logoColor=white)
+
 
