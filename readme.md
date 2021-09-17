@@ -11,7 +11,10 @@
 ![github badge](https://img.shields.io/badge/React-181717?style=flat&logo=React&logoColor=#61DAFB)
 ![github badge](https://img.shields.io/badge/Expo-181717?style=flat&logo=Expo&logoColor=#000020)
 
+![github badge](https://img.shields.io/badge/MicrosoftAzure-181717?style=flat&logo=MicrosoftAzure&logoColor=#0078D4)
+![github badge](https://img.shields.io/badge/AmazonAWS-181717?style=flat&logo=AmazonAWS&logoColor=#232F3E)
 ![github badge](https://img.shields.io/badge/FFmpeg-181717?style=flat&logo=FFmpeg&logoColor=#007808)
+![github badge](https://img.shields.io/badge/Docker-181717?style=flat&logo=Docker&logoColor=#2496ED)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik)](https://github.com/anuraghazra/github-readme-stats)
