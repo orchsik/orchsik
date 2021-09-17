@@ -23,6 +23,7 @@
 ![github badge](https://img.shields.io/badge/AmazonAWS-181717?style=flat&logo=AmazonAWS&logoColor=#232F3E)
 ![github badge](https://img.shields.io/badge/FFmpeg-181717?style=flat&logo=FFmpeg&logoColor=#007808)
 ![github badge](https://img.shields.io/badge/Docker-181717?style=flat&logo=Docker&logoColor=#2496ED)
+![github badge](https://img.shields.io/badge/TravisCI-181717?style=flat&logo=TravisCI&logoColor=#3EAAAF)
  
 
 
