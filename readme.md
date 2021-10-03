@@ -24,6 +24,10 @@
 ![github badge](https://img.shields.io/badge/FFmpeg-181717?style=flat&logo=FFmpeg&logoColor=#007808)
 ![github badge](https://img.shields.io/badge/Docker-181717?style=flat&logo=Docker&logoColor=#2496ED)
 ![github badge](https://img.shields.io/badge/TravisCI-181717?style=flat&logo=TravisCI&logoColor=#3EAAAF)
+
+![github badge](https://img.shields.io/badge/AndroidStudio-181717?style=flat&logo=AndroidStudio&logoColor=#3DDC84)
+![github badge](https://img.shields.io/badge/Xcode-181717?style=flat&logo=Xcode&logoColor=#147EFB)
+
  
 
 
