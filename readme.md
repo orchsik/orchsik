@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![github badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![github badge](https://img.shields.io/badge/Nginx-181717?style=for-the-badge&logo=Nginx&logoColor=#009639)
+![github badge](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=#CC2927)
 ![github badge](https://img.shields.io/badge/SQLite-181717?style=for-the-badge&logo=SQLite&logoColor=#003B57)
 
