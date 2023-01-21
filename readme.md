@@ -55,7 +55,7 @@
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only)
 
 
-<div style="text-align: right">
+<div style="text-align: right, width='100%'">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
 
