@@ -54,7 +54,7 @@
 
 
  ## Stats
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only)
