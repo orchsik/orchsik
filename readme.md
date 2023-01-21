@@ -1,4 +1,4 @@
-# 유연한 시스템, 개발자
+# 유연한 시스템
 
 ## 📚 Technologies
 <details>
