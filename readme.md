@@ -43,6 +43,10 @@
 ![Design Pattern](https://img.shields.io/badge/Design_Pattern-181717?style=for-the-badge&logo=Textpattern&logoColor=#007808)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ <br />
  
 </details>
  
@@ -53,10 +57,3 @@
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only)
-
-
-<div style="text-align: right, width='100%'">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
