@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![github badge](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=Linux&logoColor=#FCC624)
+![github badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![github badge](https://img.shields.io/badge/Nginx-181717?style=for-the-badge&logo=Nginx&logoColor=#009639)
 ![github badge](https://img.shields.io/badge/MicrosoftSQLServer-181717?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=#CC2927)
 ![github badge](https://img.shields.io/badge/SQLite-181717?style=for-the-badge&logo=SQLite&logoColor=#003B57)
@@ -29,6 +29,7 @@
 ![github badge](https://img.shields.io/badge/Xcode-181717?style=for-the-badge&logo=Xcode&logoColor=#147EFB)
 
  
+ <br/>
  
  ## ⚡ Stats
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
