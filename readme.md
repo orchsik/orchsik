@@ -1,5 +1,4 @@
 # 유연한 시스템
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## 📚 Technologies
 ### Frameworks, Platforms and Libraries 
@@ -48,11 +47,13 @@
 
 [![Glasses](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forchsik&count_bg=%23070906&title_bg=%23010101&icon=homebrew.svg&icon_color=%23FFFFFF&title=glasses&edge_flat=false)](https://hits.seeyoufarm.com)
  
- <br />
- 
 </details>
  
 <br/>
 
  ## Stats
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchsik&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=orchsik&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only)
+
+<br />
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
