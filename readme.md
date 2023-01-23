@@ -1,4 +1,5 @@
 # 유연한 시스템
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📚 Technologies
 <details>
